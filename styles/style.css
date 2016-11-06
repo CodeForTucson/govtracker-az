@@ -1,0 +1,19 @@
+header h1 {
+	font-size: 24pt;
+}
+header h2 {
+	font-size: 12pt;
+	font-style: italic;
+}
+
+.gov_level h1 {
+	font-size: 18pt;
+}
+
+.cities h1 {
+	font-size: 14pt;
+}
+
+.cities h2 {
+	font-size: 12pt;
+}
