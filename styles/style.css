@@ -6,6 +6,14 @@ header h2 {
 	font-style: italic;
 }
 
+.democrat {
+	color: blue;
+}
+
+.republican {
+	color: red;
+}
+
 .gov_level h1 {
 	font-size: 18pt;
 }
@@ -15,5 +23,25 @@ header h2 {
 }
 
 .cities h2 {
+	font-size: 12pt;
+}
+
+.counties h1 {
+	font-size: 14pt;
+}
+
+.state_gov h1 {
+	font-size: 14pt;
+}
+
+.state_gov h2 {
+	font-size: 12pt;
+}
+
+.congress h1 {
+	font-size: 14pt;
+}
+
+.congress h2 {
 	font-size: 12pt;
 }
