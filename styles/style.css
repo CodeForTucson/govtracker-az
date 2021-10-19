@@ -1,13 +1,16 @@
+body {
+	font-family: sans-serif;
+}
+
+header img {
+	height: 10vh;
+}
 header h1 {
 	font-size: 24pt;
 }
-header h2 {
-	font-size: 12pt;
-	font-style: italic;
-}
 
 ul {
-	list-style: none; 
+	list-style: square; 
 }
 
 .democrat {
@@ -16,4 +19,8 @@ ul {
 
 .republican {
 	color: red;
+}
+
+.independent {
+	color: grey;
 }
